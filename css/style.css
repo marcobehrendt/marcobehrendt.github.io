@@ -44,6 +44,16 @@ body {
   text-align: center;
 }
 
+.affiliation {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  font-weight: normal;
+  text-align: center;
+  max-width: 675px;
+  margin: 16px auto 0;
+}
+
 .text {
   color: white;
   display: flex;
